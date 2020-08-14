@@ -22,8 +22,12 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe acessibility on the web to someone new to programming?  accessibility is giving your programming meaning so when someone who is useing alternative methods to view the web page such as a screen reader it will let them know what they are looking at so example if theres pictures they will never understand what a link to a picture is but if you give another example a picture of mountains if you give it an alt tag that describes the picture they will know what it is
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+alt tags on pictures 
+using semantic html such as sections and h1 will give that meaning divs and spans have no meaning
+
+
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 
